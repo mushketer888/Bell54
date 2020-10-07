@@ -1,0 +1,12 @@
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\bin\Debug\Bell54.exe
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\bin\Debug\Bell54.pdb
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\obj\Debug\Bell54.csprojAssemblyReference.cache
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\obj\Debug\Bell54.Form1.resources
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\obj\Debug\Bell54.Properties.Resources.resources
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\obj\Debug\Bell54.csproj.GenerateResource.cache
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\obj\Debug\Bell54.csproj.CoreCompileInputs.cache
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\obj\Debug\Bell54.exe
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\obj\Debug\Bell54.pdb
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\bin\Debug\NAudio.dll
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\bin\Debug\NAudio.xml
+c:\users\admilebedevs6\source\repos\Bell54\Bell54\obj\Debug\Bell54.csproj.CopyComplete
