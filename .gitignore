@@ -1,11 +1,5 @@
 
-.vs/Bell54/v15/.suo
-.vs/Bell54/v15/Server/sqlite3/db.lock
-.vs/Bell54/v15/Server/sqlite3/storage.ide
-.vs/Bell54/v15/Server/sqlite3/storage.ide-wal
-.vs/Bell54/v15/Server/sqlite3/storage.ide-shm
-Bell54/obj/Debug/Bell54.csproj.CoreCompileInputs.cache
-Bell54/obj/Debug/Bell54.csproj.CoreCompileInputs.cache
-Bell54/obj/Debug/Bell54.csprojAssemblyReference.cache
-Bell54/obj/Debug/Bell54.csproj.CoreCompileInputs.cache
-Bell54/obj/Debug/Bell54.csprojAssemblyReference.cache
+.vs
+Bell54/obj/
+Bell54/bin/
+*.cache

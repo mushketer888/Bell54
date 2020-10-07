@@ -131,6 +131,7 @@
             this.listView1.FullRowSelect = true;
             this.listView1.GridLines = true;
             this.listView1.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.Nonclickable;
+            this.listView1.HideSelection = false;
             this.listView1.LabelWrap = false;
             this.listView1.Location = new System.Drawing.Point(13, 42);
             this.listView1.MultiSelect = false;
@@ -243,7 +244,7 @@
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 23);
             this.button7.TabIndex = 18;
-            this.button7.Text = "TEST";
+            this.button7.Text = "Test Sound";
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
